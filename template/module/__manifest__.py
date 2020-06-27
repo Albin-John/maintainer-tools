@@ -8,7 +8,7 @@
     "development_status": "Alpha|Beta|Production/Stable|Mature",
     "category": "Uncategorized",
     "website": "https://github.com/OCA/<repo>" or "https://github.com/OCA/<repo>/tree/<branch>/<addon>",
-    "author": "<AUTHOR(S)>, Odoo Community Association (OCA)",
+    "author": "<AUTHOR(S)>",
     # see https://odoo-community.org/page/maintainer-role for a description of the maintainer role and responsibilities
     "maintainers": ["your-github-login"],
     "license": "AGPL-3",
